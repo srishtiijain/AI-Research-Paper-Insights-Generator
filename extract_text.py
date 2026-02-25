@@ -1,4 +1,5 @@
 import fitz
+import os
 import re
 import sys
 input_folder = "papers"
